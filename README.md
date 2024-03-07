@@ -28,5 +28,5 @@ This project is a simple web application that leverages a Weather API to display
 
 ## Installation (Local Development)
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    git clone (https://github.com/Bumbakkomal/Weather-API)
